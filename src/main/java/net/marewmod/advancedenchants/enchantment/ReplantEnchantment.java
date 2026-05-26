@@ -1,6 +1,5 @@
 package net.marewmod.advancedenchants.enchantment;
 
-import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.EnchantmentTarget;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.HoeItem;
