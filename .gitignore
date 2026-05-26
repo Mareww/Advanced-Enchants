@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Fabric / Minecraft dev
+run/
+logs/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
