@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "advancedenchantments",
+  "id": "advancedenchants",
   "version": "${version}",
-  "name": "Advanced Enchantments",
+  "name": "Advanced Enchants",
   "description": "New enchantments that feel vanilla.",
   "authors": [
     "Marew"
   ],
-  "icon": "assets/advancedenchantments/icon.png",
+  "icon": "assets/advancedenchants/icon.png",
   "license": "MIT",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.marewmod.advancedenchantments.AdvancedEnchantmentsMod"
+      "net.marewmod.advancedenchants.AdvancedEnchantsMod"
     ],
     "modmenu": [
-      "net.marewmod.advancedenchantments.compat.ModMenuIntegration"
+      "net.marewmod.advancedenchants.compat.ModMenuIntegration"
     ]
   },
   "mixins": [
-    "advanced_enchantments.mixins.json"
+    "advanced_enchants.mixins.json"
   ],
   "suggests": {
     "modmenu": "*",
