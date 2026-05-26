@@ -1,37 +1,37 @@
 {
-  "enchantment.AdvancedEnchants.lifesteal": "Lifesteal",
-  "enchantment.AdvancedEnchants.lifesteal.desc": "Heals you on hit based on damage dealt.",
+  "enchantment.advancedenchants.lifesteal": "Lifesteal",
+  "enchantment.advancedenchants.lifesteal.desc": "Heals you on hit based on damage dealt.",
 
-  "enchantment.AdvancedEnchants.replant": "Replant",
-  "enchantment.AdvancedEnchants.replant.desc": "Auto-replants crops on harvest.",
+  "enchantment.advancedenchants.replant": "Replant",
+  "enchantment.advancedenchants.replant.desc": "Auto-replants crops on harvest.",
 
-  "enchantment.AdvancedEnchants.magnetic": "Magnetic",
-  "enchantment.AdvancedEnchants.magnetic.desc": "Pulls drops directly into your inventory.",
+  "enchantment.advancedenchants.magnetic": "Magnetic",
+  "enchantment.advancedenchants.magnetic.desc": "Pulls drops directly into your inventory.",
 
-  "enchantment.AdvancedEnchants.flame_walker": "Flame Walker",
-  "enchantment.AdvancedEnchants.flame_walker.desc": "Turns lava into obsidian as you walk over it.",
+  "enchantment.advancedenchants.flame_walker": "Flame Walker",
+  "enchantment.advancedenchants.flame_walker.desc": "Turns lava into obsidian as you walk over it.",
 
-  "enchantment.AdvancedEnchants.experience": "Experience",
-  "enchantment.AdvancedEnchants.experience.desc": "Increases experience gained.",
+  "enchantment.advancedenchants.experience": "Experience",
+  "enchantment.advancedenchants.experience.desc": "Increases experience gained.",
 
-  "enchantment.AdvancedEnchants.treecapitator": "Treecapitator",
-  "enchantment.AdvancedEnchants.treecapitator.desc": "Chops down an entire tree at once.",
+  "enchantment.advancedenchants.treecapitator": "Treecapitator",
+  "enchantment.advancedenchants.treecapitator.desc": "Chops down an entire tree at once.",
 
-  "enchantment.AdvancedEnchants.vein_miner": "Vein Miner",
-  "enchantment.AdvancedEnchants.vein_miner.desc": "Mines an entire ore vein at once.",
+  "enchantment.advancedenchants.vein_miner": "Vein Miner",
+  "enchantment.advancedenchants.vein_miner.desc": "Mines an entire ore vein at once.",
 
-  "enchantment.AdvancedEnchants.auto_smelt": "Auto Smelt",
-  "enchantment.AdvancedEnchants.auto_smelt.desc": "80% chance to instantly smelt mined drops.",
+  "enchantment.advancedenchants.auto_smelt": "Auto Smelt",
+  "enchantment.advancedenchants.auto_smelt.desc": "80% chance to instantly smelt mined drops.",
 
-  "enchantment.AdvancedEnchants.double_shot": "Double Shot",
-  "enchantment.AdvancedEnchants.double_shot.desc": "Fires an extra arrow.",
+  "enchantment.advancedenchants.double_shot": "Double Shot",
+  "enchantment.advancedenchants.double_shot.desc": "Fires an extra arrow.",
 
-  "enchantment.AdvancedEnchants.triple_shot": "Triple Shot",
-  "enchantment.AdvancedEnchants.triple_shot.desc": "Fires two extra arrows.",
+  "enchantment.advancedenchants.triple_shot": "Triple Shot",
+  "enchantment.advancedenchants.triple_shot.desc": "Fires two extra arrows.",
 
-  "enchantment.AdvancedEnchants.homing": "Homing",
-  "enchantment.AdvancedEnchants.homing.desc": "Arrows curve toward nearby mobs.",
+  "enchantment.advancedenchants.homing": "Homing",
+  "enchantment.advancedenchants.homing.desc": "Arrows curve toward nearby mobs.",
 
-  "enchantment.AdvancedEnchants.evasion": "Evasion",
-  "enchantment.AdvancedEnchants.evasion.desc": "1% chance per armor piece to dodge incoming damage."
+  "enchantment.advancedenchants.evasion": "Evasion",
+  "enchantment.advancedenchants.evasion.desc": "1% chance per armor piece to dodge incoming damage."
 }
